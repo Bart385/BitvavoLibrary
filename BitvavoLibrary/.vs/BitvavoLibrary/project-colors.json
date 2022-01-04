@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e2cea44f-4417-4112-bf0d-039743071dc5": {
+      "ProjectGuid": "e2cea44f-4417-4112-bf0d-039743071dc5",
+      "DisplayName": "BitvavoLibrary",
+      "ColorIndex": 0
+    },
+    "0085077c-b8c4-4d6b-bf95-0d48617c263a": {
+      "ProjectGuid": "0085077c-b8c4-4d6b-bf95-0d48617c263a",
+      "DisplayName": "BitvavoLibrary",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
